@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: helvetica;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333;
+}
+
+.ancho{
+    max-width: 1200px;
+    margin: auto;
+    /* border: 1px red solid; */
+}
+
+.fondo{
+    background-color: #fff9f1;
+}
+
+.margen{
+    padding: 15px;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.linea{
+    border: 7px #ff3281 solid;
+}
+
+.rosa{
+    color: #ff3281;
+}
+
+.decoracion{
+    text-decoration: none;
+}
+
+.negro{
+    color: black;
+}
+
+
+.logo{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-top: 10px;
+}
+
+.redes{
+    width: 450px;
+    display: inline-block;
+    vertical-align: top;
+    /* border: 1px solid black; */
+    margin-left: 400px;
+    margin-top: 30px;
+    text-align: right;
+}
+
+.redes img{
+    padding: 10px;
+}
+
+.menu{
+    color: white;
+    padding: 10px 10px;
+    border-radius: 0px;
+    justify-content: center;
+    gap: 60px;
+    display: flex;
+    gap: 240px;
+    border: 3px solid black;
+    margin-left: 100px;
+    margin-right: 60px;
+}
+
+.menu a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.fondo2{
+    margin-top: 15px;
+    background-image: url(../tarea5/imagenes/fondopiedras.jpg);
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.texto{
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
+
+.btn_video{
+    text-decoration: none;
+    border: 3px solid #ff3281;
+    color: white;
+    padding: 15px;
+    margin: 30px;
+}
+
+.btn_rosa{
+    background-color: #ff3281;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.info{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    /* border: 1px solid black; */
+    margin-left: 200px;
+}
+
+.negritas{
+    font-weight: bold;
+}
+
+.velas{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    /* border: 1px solid black; */
+}
+
+.aroma{
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    /* border: 1px solid black; */
+    margin-left: 190px;
+    margin-top: 15px;
+}
+
+.aroma img{
+    border-radius: 15px;
+    height: 350px;
+}
+
+.puesto{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    margin-left: 1px;
+    margin-top: 20px;
+}
+
+.puesto h2{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.puesto p{
+    font-size: 14px;
+}
+
+.elementos1{
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    margin-top: 15px;
+    width: 400px;
+}
+
+.noticias{
+    border: 5px solid #ff3281;
+    width: 450px;
+    padding: 15px;
+}
+
+
+.noticias button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    margin-top: 15px;
+}
+
+.correo{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.correo h2{
+    font-size: 30px;
+}
+
+.instalaciones{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.instalaciones h2{
+    font-size: 30px;
+}
+
+.logo2{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.logo2 img{
+    height: 120px;
+}
+
+.tarea{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: right;
+}
